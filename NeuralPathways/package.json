@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "@types/jquery": "^3.3.21",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "es-cookie": "^1.2.0"
   },
   "devDependencies": {
